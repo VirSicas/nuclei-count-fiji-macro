@@ -2,7 +2,7 @@
 
 A Fiji/ImageJ macro that segments and counts nuclei in a folder of JPG images using a fixed (manual) threshold, and writes a CSV summary plus a binary mask for each image.
 
-Built by Virginia Silio.
+Built by Virginia Silio (nice commenting from Claude)
 
   > **Note:** Always keep the original files in the microscope's proprietary format (e.g. .czi, .nd2, .lif). JPGs are lossy and should only be used for quick counts like this.
 
